@@ -1,4 +1,4 @@
-# Tower of Hanoi
+# Drunken Tower of Hanoi - Python3 Implemetation
 
 * Bob is little drunk and he is amazed with "Tower of Hanoi", which consists of three upright rods and disks of different sizes that can slide onto any of the rods. The aim of the game is to move all of the disks from the leftmost rod to the rightmost rod but you can only move one disk at a time and No disk can be placed on top of a smaller disk.
 * He is drunk therefore he will either stumble one square to the left or one square to the right with equal probability, unless he is at either end of the room, in which case he can only move in one direction.
